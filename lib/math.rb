@@ -23,11 +23,11 @@ end
 multiplication (4,30)
 
 def modulo(num1, num2)
-
+  puts num1 % num2
 end
 
 modulo (34,5)
-  puts num1 % num2
+
 def square_root(num)
   puts sqrt(num)
 end
